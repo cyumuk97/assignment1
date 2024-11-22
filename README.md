@@ -1,7 +1,5 @@
 # Assignment 1
 
-## Can Volkan Yumuk
-
 calc_daltons.py calculates the estimated molecular weight of the protein in kilodaltons
 
 calc_number_amino_acids.py calculates the estimated molecular of the protein based on the DNA sequence provided by the user
